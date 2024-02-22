@@ -4,7 +4,6 @@
 [
   "akamud.vscode-theme-onedark",
   "formulahendry.auto-rename-tag",
-  "miguelsolorio.fluent-icons",
   "donjayamanne.githistory",
   "eamodio.gitlens",
   "pkief.material-icon-theme",
@@ -12,3 +11,5 @@
   "misogi.ruby-rubocop"
 ]
 ```
+
+[Back to readme](README.md)

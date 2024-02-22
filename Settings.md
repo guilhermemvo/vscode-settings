@@ -17,3 +17,5 @@
   "workbench.iconTheme": "material-icon-theme", //pkief.material-icon-theme
 }
 ```
+
+[Back to readme](README.md)
